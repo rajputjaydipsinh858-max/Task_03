@@ -1,0 +1,33 @@
+body{
+    background-color:lightcoral;
+}
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color:aqua;
+}
+#bglime strong{
+    color: red;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+p span{
+    color:black;
+}
+a{
+    background-color:rgb(235, 227, 118);
+}
+ul li:nth-child(2) a{
+    background-color:rgb(230, 63, 158);
+}
+ol li:nth-child(2){
+    color:blueviolet;
+}
+ol li:nth-child(3){
+    color:brown;
+}
